@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kar3sz81
-- 👀 I’m interested in racing games(like stuntCarRacing, viperRacing, LFS, Motogp9-10), T.B.Strat games(Civ2,5, Homm2,3,5), tradingBots(after 100+ bot, still dont have a working one).
+- 👀 I’m interested in racing games(like stuntCarRacing(C64), viperRacing(DOS), LFS(PC), MotogpXX(Console)), T.B.Strat games(Civ2,5, Homm2,3,5,6), tradingBots(beyond 100+).
 - 🌱 I’m currently learning React, Firebase, MERN-stack.
-- 💞️ I’m looking to collaborate on the upper mentioned list of kind of things(point:2,3).
-- 📫 How to reach me, not sure, do we have inside gitHub chat?
-- 😄 Pronouns: what/why
-- ⚡ Fun fact: Im boring
+- 💞️ I’m happy to collaborate on the upper mentioned kind of things.
+- 📫 How to reach me: 
+- 😄 Pronouns: Discipline
+- ⚡ Fun fact: Discipline
 
 <!---
 kar3sz81/kar3sz81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
